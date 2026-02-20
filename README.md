@@ -6,6 +6,7 @@ This project presents a comprehensive Hotel Revenue Analytics Dashboard built us
 The goal of this project is to provide actionable insights to Revenue Managers and General Managers for improving pricing strategies, reducing cancellations, and optimizing revenue.
 
 📊 Dashboard Highlights
+
 🔹 Core KPIs
 
 Total Revenue: 1B+
